@@ -1,0 +1,15 @@
+/home/miguel_fedora/Marta_Liebre/CompiladorSabiduria/bin/Debug/net6.0/CompiladorSabiduria
+/home/miguel_fedora/Marta_Liebre/CompiladorSabiduria/bin/Debug/net6.0/CompiladorSabiduria.deps.json
+/home/miguel_fedora/Marta_Liebre/CompiladorSabiduria/bin/Debug/net6.0/CompiladorSabiduria.runtimeconfig.json
+/home/miguel_fedora/Marta_Liebre/CompiladorSabiduria/bin/Debug/net6.0/CompiladorSabiduria.dll
+/home/miguel_fedora/Marta_Liebre/CompiladorSabiduria/bin/Debug/net6.0/ref/CompiladorSabiduria.dll
+/home/miguel_fedora/Marta_Liebre/CompiladorSabiduria/bin/Debug/net6.0/CompiladorSabiduria.pdb
+/home/miguel_fedora/Marta_Liebre/CompiladorSabiduria/obj/Debug/net6.0/CompiladorSabiduria.csproj.AssemblyReference.cache
+/home/miguel_fedora/Marta_Liebre/CompiladorSabiduria/obj/Debug/net6.0/CompiladorSabiduria.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguel_fedora/Marta_Liebre/CompiladorSabiduria/obj/Debug/net6.0/CompiladorSabiduria.AssemblyInfoInputs.cache
+/home/miguel_fedora/Marta_Liebre/CompiladorSabiduria/obj/Debug/net6.0/CompiladorSabiduria.AssemblyInfo.cs
+/home/miguel_fedora/Marta_Liebre/CompiladorSabiduria/obj/Debug/net6.0/CompiladorSabiduria.csproj.CoreCompileInputs.cache
+/home/miguel_fedora/Marta_Liebre/CompiladorSabiduria/obj/Debug/net6.0/CompiladorSabiduria.dll
+/home/miguel_fedora/Marta_Liebre/CompiladorSabiduria/obj/Debug/net6.0/ref/CompiladorSabiduria.dll
+/home/miguel_fedora/Marta_Liebre/CompiladorSabiduria/obj/Debug/net6.0/CompiladorSabiduria.pdb
+/home/miguel_fedora/Marta_Liebre/CompiladorSabiduria/obj/Debug/net6.0/CompiladorSabiduria.genruntimeconfig.cache

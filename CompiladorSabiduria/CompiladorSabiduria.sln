@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompiladorSabiduria", "CompiladorSabiduria.csproj", "{0CD3E6D2-1419-4EC3-B759-F4A7E9764B1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CD3E6D2-1419-4EC3-B759-F4A7E9764B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD3E6D2-1419-4EC3-B759-F4A7E9764B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD3E6D2-1419-4EC3-B759-F4A7E9764B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD3E6D2-1419-4EC3-B759-F4A7E9764B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AF657F4-E6F7-4A20-B3F7-5548901F7EA2}
+	EndGlobalSection
+EndGlobal
